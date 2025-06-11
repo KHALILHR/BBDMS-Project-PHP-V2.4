@@ -1,0 +1,6 @@
+/* Custom CSS to override hover effects */
+.pricing:hover {
+    transform: none;
+    -webkit-transform: none;
+    -ms-transform: none;
+}
